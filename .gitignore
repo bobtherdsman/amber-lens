@@ -1,0 +1,12 @@
+/bin/
+amber-lens
+*.exe
+*.fingerprint.json
+discovery-report*.html
+scan-manifest.json
+*.test
+*.out
+/vendor/
+.DS_Store
+.idea/
+.vscode/
